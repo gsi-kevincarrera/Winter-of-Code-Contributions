@@ -5,7 +5,7 @@
 ### origranot/reduced.to (502⭐ 1/1/2024 8:00pm)
 #### Update preview gif 
 The page UI was updated, so the presentation gif needed to be updated too
-![Change preview gif issue](/assets/Change-preview-gif-issue.png.png)
+![Captura de pantalla (34)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/e3981c06-f111-4bc2-a251-a7de89accf05)
 
 ![Captura de pantalla (35)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/b8f9f433-12fb-4b8b-afd1-916d3a319725)
 
