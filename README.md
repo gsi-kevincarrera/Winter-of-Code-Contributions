@@ -4,7 +4,7 @@
 
 ### origranot/reduced.to (502⭐ 1/1/2024 8:00pm)
 #### Update preview gif 
-The page ui was updated, so the presentation gif needed to be updated too
+The page UI was updated, so the presentation gif needed to be updated too
 ![Captura de pantalla (34)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/9e3e761b-d791-4e51-b80a-f12eeb89effd)
 
 ![Captura de pantalla (35)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/b8f9f433-12fb-4b8b-afd1-916d3a319725)
@@ -12,7 +12,7 @@ The page ui was updated, so the presentation gif needed to be updated too
 ### withastro/docs (1.1k⭐ 1/1/2024 8:01pm)
 This is the official documentation repository for Astro framework (38.2k⭐ 1/1/2024 8:01pm)
 
-#### Add Infoarmation on mixing SolidJs and React 
+#### Add Information on mixing SolidJs and React 
 An Astro framework repository member requested to add some information on the docs page
 ![Captura de pantalla (38)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/0898f6c9-7973-409e-9869-fe322a7a2039)
 
