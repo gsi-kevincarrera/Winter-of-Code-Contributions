@@ -1,4 +1,4 @@
-﻿# Winter-of-Code-Contributions
+﻿# Winter of Code Contributions
  
 ## 1. Merged pull requests 
 
