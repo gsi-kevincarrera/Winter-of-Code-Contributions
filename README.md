@@ -1,6 +1,6 @@
 ﻿# Winter-of-Code-Contributions
  
-## Merged pull requests 
+## 1. Merged pull requests 
 
 ### origranot/reduced.to (502⭐ 1/1/2024 8:00pm)
 #### Update preview gif 
@@ -17,7 +17,7 @@ This is the official documentation repository for Astro framework (38.2k⭐ 1/1/
 ![Captura de pantalla (42)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/ef1b79fe-6565-4207-ab9b-977c9d45edc0)
 ![Captura de pantalla (41)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/e97affb7-110a-4a52-8234-adb00978febb)
 
-## Pull requests sent but not reviewed
+## 2. Pull requests sent but not reviewed
 
 ### markteekman/accesible-astro-starter (533⭐ 1/1/2024 8:31pm)
 Accessible Astro Starter is a ready to use, SEO and a11y friendly blogging theme.
@@ -29,7 +29,7 @@ Accessible Astro Starter is a ready to use, SEO and a11y friendly blogging theme
 ![Captura de pantalla (37)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/ee173e59-9a4d-43c7-9cc9-9fecf5c3e9cd)
 
 
-## Approved self-open issues 
+## 3. Approved self-open issues 
 
 ### withastro/docs (1.1k⭐ 1/1/2024 8:01pm)
 
@@ -37,7 +37,7 @@ Accessible Astro Starter is a ready to use, SEO and a11y friendly blogging theme
 Self-open issue, due to a request of an Astro repository member of documenting a resolved issue
 ![Captura de pantalla (39)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/3b19a627-b2df-44e5-a45d-e8fe27753020)
 
-## Asigned issues
+## 4. Asigned issues
 
 ### movie-web/movie-web (11k⭐ 1/1/2024 8:42pm)
 movie-web is a web app for watching movies easily.
@@ -46,7 +46,7 @@ This service works by displaying video files from third-party providers inside a
 #### [Bug] Backend false values still count as true
 ![Captura de pantalla (43)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/7e8fc33d-c4c0-41df-9c6c-929bf4596884)
 
-## Currently Working
+## 5. Currently Working
 
 ### StaticMania/keep-react (1k⭐ 1/1/2024 8:44pm)
 Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components that enable developers to streamline the creation of modern, responsive, and visually appealing web applications.
