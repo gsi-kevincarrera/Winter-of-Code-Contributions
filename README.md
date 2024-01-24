@@ -11,15 +11,6 @@ The issue appears to be the use of the zod libary and z.coerce.boolean() functio
 ![Captura de pantalla (96)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/3ba38803-d823-4369-afca-5d77360e068e)
 ![Captura de pantalla (95)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/d14f00f7-4984-46f2-af8f-7a5405cfd076)
 
-
-### origranot/reduced.to (502⭐ 1/1/2024 8:00pm)
-
-#### 2.Update preview gif 
-The page UI was updated, so the presentation gif needed to be updated too
-![Captura de pantalla (34)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/e3981c06-f111-4bc2-a251-a7de89accf05)
-
-![Captura de pantalla (35)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/b8f9f433-12fb-4b8b-afd1-916d3a319725)
-
 ### withastro/docs (1.1k⭐ 1/1/2024 8:01pm)
 This is the official documentation repository for Astro framework (38.2k⭐ 1/1/2024 8:01pm)
 
@@ -39,6 +30,14 @@ Accessible Astro Starter is a ready to use, SEO and a11y friendly blogging theme
 #### 5. Feat: dropdown now close when losing focus
 The task was to make the Navigation dropdown, closes when losing focus
 ![Captura de pantalla (36)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/2da79635-f09a-4d44-a5d0-509b860fd5dd)
+
+### origranot/reduced.to (502⭐ 1/1/2024 8:00pm)
+
+#### 2.Update preview gif 
+The page UI was updated, so the presentation gif needed to be updated too
+![Captura de pantalla (34)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/e3981c06-f111-4bc2-a251-a7de89accf05)
+
+![Captura de pantalla (35)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/b8f9f433-12fb-4b8b-afd1-916d3a319725)
 
 ### codiume/orbit (211⭐ 24/1/2024 1:09pm)
 
