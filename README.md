@@ -6,12 +6,15 @@
 movie-web is a web app for watching movies easily.
 This service works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
 
-#### [Bug] Backend false values still count as true
+#### 1. Fix: implement function to correctly handle boolean strings with zod
 The issue appears to be the use of the zod libary and z.coerce.boolean() function, that always return true even if the boolean value is false
-![Captura de pantalla (40)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/28c0207a-38b9-4825-a067-5731b160d090)
+![Captura de pantalla (96)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/3ba38803-d823-4369-afca-5d77360e068e)
+![Captura de pantalla (95)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/d14f00f7-4984-46f2-af8f-7a5405cfd076)
+
 
 ### origranot/reduced.to (502⭐ 1/1/2024 8:00pm)
-#### Update preview gif 
+
+#### 2.Update preview gif 
 The page UI was updated, so the presentation gif needed to be updated too
 ![Captura de pantalla (34)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/e3981c06-f111-4bc2-a251-a7de89accf05)
 
@@ -20,11 +23,11 @@ The page UI was updated, so the presentation gif needed to be updated too
 ### withastro/docs (1.1k⭐ 1/1/2024 8:01pm)
 This is the official documentation repository for Astro framework (38.2k⭐ 1/1/2024 8:01pm)
 
-#### Add Information on mixing SolidJs and React 
+#### 3. Add Information on mixing SolidJs and React 
 An Astro framework repository member requested to add some information on the docs page
 ![Captura de pantalla (38)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/0898f6c9-7973-409e-9869-fe322a7a2039)
 
-#### Update documentation: tsconfig aliases
+#### 4. Update documentation: tsconfig aliases
 A user opened an issue, about tsconfig aliases not working on the astro config file, and a member clarified the situation. The task was to understand the conclusion arrived
 in the discussion and add it to the documentation
 ![Captura de pantalla (42)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/6760eb1f-de21-4050-8bba-5610ac7f9b20)
@@ -33,13 +36,13 @@ in the discussion and add it to the documentation
 ### markteekman/accesible-astro-starter (533⭐ 1/1/2024 8:31pm)
 Accessible Astro Starter is a ready to use, SEO and a11y friendly blogging theme.
 
-#### Feat: dropdown now close when losing focus
+#### 5. Feat: dropdown now close when losing focus
 The task was to make the Navigation dropdown, closes when losing focus
 ![Captura de pantalla (36)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/2da79635-f09a-4d44-a5d0-509b860fd5dd)
 
 ### codiume/orbit (211⭐ 24/1/2024 1:09pm)
 
-#### Add mobile detection warning to README.md
+#### 6. Add mobile detection warning to README.md
 This was about adding a warning about mobile detection and providing a better alternative
 ![Captura de pantalla (88)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/30511dc0-01b8-4d6c-b03a-2e238590769d)
 ![Captura de pantalla (89)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/58199d17-8b3b-485d-9619-586a382a6818)
