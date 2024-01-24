@@ -2,6 +2,14 @@
  
 ## 1. Merged pull requests 
 
+### movie-web/movie-web (17.3k⭐ 24/1/2024 1:02pm)
+movie-web is a web app for watching movies easily.
+This service works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
+
+#### [Bug] Backend false values still count as true
+The issue appears to be the use of the zod libary and z.coerce.boolean() function, that always return true even if the boolean value is false
+![Captura de pantalla (40)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/28c0207a-38b9-4825-a067-5731b160d090)
+
 ### origranot/reduced.to (502⭐ 1/1/2024 8:00pm)
 #### Update preview gif 
 The page UI was updated, so the presentation gif needed to be updated too
@@ -22,14 +30,24 @@ in the discussion and add it to the documentation
 ![Captura de pantalla (42)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/6760eb1f-de21-4050-8bba-5610ac7f9b20)
 ![Captura de pantalla (41)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/47887eb9-9ee9-4b52-8c1b-44b522c4ee89)
 
-## 2. Pull requests sent but not reviewed
-
 ### markteekman/accesible-astro-starter (533⭐ 1/1/2024 8:31pm)
 Accessible Astro Starter is a ready to use, SEO and a11y friendly blogging theme.
 
 #### Feat: dropdown now close when losing focus
 The task was to make the Navigation dropdown, closes when losing focus
 ![Captura de pantalla (36)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/2da79635-f09a-4d44-a5d0-509b860fd5dd)
+
+### codiume/orbit (211⭐ 24/1/2024 1:09pm)
+
+#### Add mobile detection warning to README.md
+This was about adding a warning about mobile detection and providing a better alternative
+![Captura de pantalla (88)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/30511dc0-01b8-4d6c-b03a-2e238590769d)
+![Captura de pantalla (89)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/58199d17-8b3b-485d-9619-586a382a6818)
+
+## 2. Pull requests sent but not reviewed
+
+### markteekman/accesible-astro-starter (533⭐ 1/1/2024 8:31pm)
+Accessible Astro Starter is a ready to use, SEO and a11y friendly blogging theme.
 
 #### Feat/mobile menu traps focus
 The task was to mantanin the focus on the menu, in mobile view, it will help with accesibility
@@ -45,7 +63,7 @@ Self-open issue, due to a request of an Astro repository member of documenting a
 
 ## 4. Asigned issues
 
-### movie-web/movie-web (11k⭐ 1/1/2024 8:42pm)
+### movie-web/movie-web (17.3k⭐ 24/1/2024 1:02pm)
 movie-web is a web app for watching movies easily.
 This service works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
 
