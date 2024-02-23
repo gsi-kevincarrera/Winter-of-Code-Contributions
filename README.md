@@ -29,6 +29,7 @@ Accessible Astro Starter is a ready to use, SEO and a11y friendly blogging theme
 
 #### 5. Feat: dropdown now close when losing focus
 The task was to make the Navigation dropdown, closes when losing focus
+![image](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/145871a6-e450-4020-8f19-d9f8cc4a2126)
 ![Captura de pantalla (36)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/2da79635-f09a-4d44-a5d0-509b860fd5dd)
 
 ### origranot/reduced.to (502⭐ 1/1/2024 8:00pm)
