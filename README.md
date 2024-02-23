@@ -69,10 +69,6 @@ Self-open issue, due to a request of an Astro repository member of documenting a
 movie-web is a web app for watching movies easily.
 This service works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
 
-#### [Bug] Backend false values still count as true
-The issue appears to be the use of the zod libary and z.coerce.boolean() function, that always return true even if the boolean value is false
-![Captura de pantalla (40)](https://github.com/gsi-kevincarrera/Winter-of-Code-Contributions/assets/144747596/28c0207a-38b9-4825-a067-5731b160d090)
-
 ## 5. Currently Working
 
 ### StaticMania/keep-react (1k⭐ 1/1/2024 8:44pm)
